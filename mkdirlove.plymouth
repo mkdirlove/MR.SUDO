@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=mkdirlove
+Description=mkdirlove plymouth theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/mkdirlove
+ScriptFile=/usr/share/plymouth/themes/mkdirlove/mkdirlove.script
